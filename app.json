@@ -1,0 +1,8 @@
+{
+  "name": "Camille's boxen",
+  "env": {
+    "REPOSITORY": "https://github.com/camilleldn/boxen",
+    "GITHUB_CLIENT_ID": "todo",
+    "GITHUB_CLIENT_SECRET" : "todo"
+  }
+}
