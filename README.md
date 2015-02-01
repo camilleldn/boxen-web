@@ -4,7 +4,7 @@
 
 ## Deploy your own
 
-1. Create a new GitHub OAuth application. 
+####1. Create a new GitHub OAuth application. 
 
 If you are planning for your boxen-web application to live at `https://example.herokuapp.com`,
 create a GitHub OAuth application with the following config:
@@ -15,11 +15,11 @@ create a GitHub OAuth application with the following config:
 
 Make a note of the client ID and client secret for that application. 
 
-2. Generate a random 30 character string. 
+####2. Generate a random 30 character string. 
 
 You can do that for example by running the following command:
 ```
 gpg --gen-random --armor 1 30
 ```
 
-3. Click the Heroku deploy button above!
+####3. Click the Heroku deploy button above!
