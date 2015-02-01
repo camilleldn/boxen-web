@@ -2,7 +2,8 @@
   "name": "Camille's boxen",
   "env": {
     "REPOSITORY": "https://github.com/camilleldn/boxen",
-    "GITHUB_CLIENT_ID": "todo",
-    "GITHUB_CLIENT_SECRET" : "todo"
+    "GITHUB_CLIENT_ID": "insert-oauth-app-client-id",
+    "GITHUB_CLIENT_SECRET" : "insert-oauth-app-client-secret",
+    "SECRET_TOKEN": "30 random characters"
   }
 }
