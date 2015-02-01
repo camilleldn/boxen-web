@@ -1,5 +1,7 @@
 # Boxen via the Web
 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 ## Development
 
 We assume you already have Boxen working on your machine. You also need PostgreSQL installed.
