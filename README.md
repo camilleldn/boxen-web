@@ -23,3 +23,5 @@ gpg --gen-random --armor 1 30
 ```
 
 ####3. Click the Heroku deploy button above!
+
+![alt tag](https://raw.github.com/camilleldn/boxen-web/branch/master/heroku-create.gif)
