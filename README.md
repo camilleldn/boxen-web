@@ -24,4 +24,6 @@ gpg --gen-random --armor 1 30
 
 ####3. Click the Heroku deploy button above!
 
-![alt tag](https://raw.github.com/camilleldn/boxen-web/branch/master/heroku-create.gif)
+This should take you directly to Heroku. Using the client id, client token and generated random 30 character string, fill in the fields on the page and click Deploy App. 
+
+![Heroku creation](https://github.com/camilleldn/boxen-web/blob/master/heroku-create.gif)
