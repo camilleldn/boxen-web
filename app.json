@@ -1,9 +1,17 @@
 {
   "name": "Camille's boxen",
+  "description": "Camille Baldock's fork of boxen-web, linked to her boxen fork",
+  "keywords": [
+    "boxen"
+  ],
+  "website": "https://boxen.camillebaldock.com",
   "env": {
     "REPOSITORY": "https://github.com/camilleldn/boxen",
     "GITHUB_CLIENT_ID": "insert-oauth-app-client-id",
     "GITHUB_CLIENT_SECRET" : "insert-oauth-app-client-secret",
     "SECRET_TOKEN": "30 random characters"
+  },
+  "scripts": {
+    "postdeploy": "bundle exec rake db:migrate"
   }
 }
