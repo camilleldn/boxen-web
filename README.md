@@ -1,5 +1,7 @@
 # Boxen via the Web
 
+<a href="https://gemnasium.com/camilleldn/boxen-web" alt="Dependency Status" target="_blank"><img src="https://img.shields.io/gemnasium/camilleldn/boxen-web.svg?style=flat"></a>
+
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ## Deploy your own
