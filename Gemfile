@@ -16,6 +16,5 @@ group :assets do
 end
 
 group :development, :test do
-  gem "heroku"
   gem "pry"
 end
