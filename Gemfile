@@ -8,7 +8,6 @@ gem "omniauth-github"
 gem "pg"
 gem "rails", "~> 4.0.1"
 gem "unicorn"
-gem "strong_parameters"
 
 group :assets do
   gem "coffee-rails"
