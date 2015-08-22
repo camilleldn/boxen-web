@@ -16,7 +16,7 @@ module Boxen
     config.active_support.escape_html_entities_in_json = true
 
     # require attr_accessible or attr_protected
-    config.active_record.whitelist_attributes = true
+    config.active_record.whitelist_attributes = false
 
     # let"s use the asset pipeline
     config.assets.enabled = true
